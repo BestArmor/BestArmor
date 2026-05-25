@@ -123,12 +123,11 @@
 
 <br><br>
 
-### 📈 Мой вклад в 3D
+### 📈 Общая статистика и языки
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-3d-contrib.vercel.app/api/profile/contrib?username=BestArmor&bgColor=0D1117&color=FF50B4&footerColor=FF50B4" />
-  <img src="https://github-readme-3d-contrib.vercel.app/api/profile/contrib?username=BestArmor" alt="3D Contrib" />
-</picture>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BestArmor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&icon_color=FF50B4&text_color=fff&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BestArmor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&text_color=fff&langs_count=8&count_private=true" alt="Top Languages" />
 
 ---
 
