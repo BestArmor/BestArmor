@@ -3,6 +3,7 @@
   <a href="mailto:kid.fid@bk.ru">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=💼%20OPEN%20TO%20WORK%20%20•%20%20Full%20Stack%20Developer%20%20•%20%20Hire%20Me!&fontSize=22&fontColor=fff&animation=fadeIn" width="100%"/>
   </a>
+</div>
 
 <div align="center">
 
@@ -26,6 +27,7 @@
 🌍 Languages: Russian (Native) • English
 ⏰ Format: Full-time / Freelance / Remote
 🚀 Ready to start: Immediately
+```
 
 <div align="center">
 
