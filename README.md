@@ -106,3 +106,29 @@
 </div>
 
 ---
+
+## 📊 Моя статистика GitHub
+
+<div align="center">
+
+### 🔥 Streak (дней подряд)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BestArmor&theme=radical&hide_border=true&background=0D1117&ring=FF50B4&fire=FF50B4&currStreakLabel=FF50B4&sideLabels=FF50B4&dates=FF50B4" alt="GitHub Streak" />
+
+<br><br>
+
+### 🏆 Достижения
+
+<img src="https://github-profile-trophy.vercel.app/?username=BestArmor&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+<br><br>
+
+### 📈 Общая статистика и языки
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BestArmor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&icon_color=FF50B4&text_color=fff" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BestArmor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&text_color=fff&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
