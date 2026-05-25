@@ -218,7 +218,6 @@
 ---
 
 <div align="center">
----
 
 ## 🐍 Мой вклад в open source
 
