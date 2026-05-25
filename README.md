@@ -1,3 +1,33 @@
+<!-- 💼 OPEN TO WORK BANNER -->
+<div align="center">
+  <a href="mailto:kid.fid@bk.ru">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=💼%20OPEN%20TO%20WORK%20%20•%20%20Full%20Stack%20Developer%20%20•%20%20Hire%20Me!&fontSize=22&fontColor=fff&animation=fadeIn" width="100%"/>
+  </a>
+</div>
+
+<div align="center">
+
+### 🚀 Ищу интересные проекты и предложения о работе
+
+<p>
+  <a href="mailto:kid.fid@bk.ru">
+    <img src="https://img.shields.io/badge/📧_Email-kid.fid@bk.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/xBestArmoRx">
+    <img src="https://img.shields.io/badge/✈️_Telegram-@xBestArmoRx-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/BestArmor">
+    <img src="https://img.shields.io/badge/🐙_GitHub-BestArmor-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+```yaml
+📍 Location: Russia / Remote Worldwide
+💻 Stack: C# / .NET • Java / Spring • Python / FastAPI
+🌍 Languages: Russian (Native) • English
+⏰ Format: Full-time / Freelance / Remote
+🚀 Ready to start: Immediately
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BestArmor&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
