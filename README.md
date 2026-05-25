@@ -21,13 +21,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Russia_|_Remote_Worldwide-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Stack-C%23_•_Java_•_Python-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Languages-Russian_(Native)_•_English-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⏰_Format-Full_time_•_Freelance_•_Remote-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Ready_to_Start-Immediately-00C853?style=for-the-badge" />
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/📍-FF50B4?style=flat-square" /> <b>Location:</b> Russia / Remote Worldwide<br>
+  <img src="https://img.shields.io/badge/💻-FF50B4?style=flat-square" /> <b>Stack:</b> C# / .NET • Java / Spring • Python / FastAPI<br>
+  <img src="https://img.shields.io/badge/🌍-FF50B4?style=flat-square" /> <b>Languages:</b> Russian (Native) • English<br>
+  <img src="https://img.shields.io/badge/⏰-FF50B4?style=flat-square" /> <b>Format:</b> Full-time / Freelance / Remote<br>
+  <img src="https://img.shields.io/badge/🚀-00C853?style=flat-square" /> <b>Ready to start:</b> Immediately
 </p>
+
+</div>
 
 <div align="center">
 
