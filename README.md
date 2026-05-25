@@ -21,13 +21,13 @@
   </a>
 </p>
 
-```yaml
-📍 Location: Russia / Remote Worldwide
-💻 Stack: C# / .NET • Java / Spring • Python / FastAPI
-🌍 Languages: Russian (Native) • English
-⏰ Format: Full-time / Freelance / Remote
-🚀 Ready to start: Immediately
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Russia_|_Remote_Worldwide-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Stack-C%23_•_Java_•_Python-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Languages-Russian_(Native)_•_English-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⏰_Format-Full_time_•_Freelance_•_Remote-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Ready_to_Start-Immediately-00C853?style=for-the-badge" />
+</p>
 
 <div align="center">
 
