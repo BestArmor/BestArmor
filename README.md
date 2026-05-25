@@ -9,26 +9,26 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+## 👨‍💻 Обо мне
 
-```csharp
-public class BestArmor
-{
-    public string Name => "BestArmor";
-    public string Role => "Full Stack Developer";
-    
-    public string[] PrimaryStack => new[] { "C#", ".NET 8", "Java", "Spring Boot", "Python" };
-    public string[] Frameworks => new[] { "WinForms", "Spring Boot", "FastAPI", "Flask", "Django" };
-    public string[] Frontend => new[] { "HTML5", "CSS3", "JavaScript", "WebView2" };
-    public string[] Databases => new[] { "PostgreSQL", "MySQL", "SQL Server", "SQLite" };
-    public string[] Tools => new[] { "VS Code", "IntelliJ IDEA", "PyCharm", "Git", "Docker" };
-    
-    public string CurrentProject => "AutoClicker V2 + изучаю FastAPI и Spring Boot";
-    public bool OpenForCollaboration => true;
-    
-    public string FunFact => "Пишу код под lo-fi hip hop 🎧";
-    
-    public void SayHi() => Console.WriteLine("Thanks for visiting! 💜");
-}
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF50B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Coffee+Driven+Coding+Machine+%E2%98%95" alt="About me" />
+</div>
 
+<div align="center">
 
+| 🎯 Текущий фокус | 🌱 Изучаю | 💡 Интересы |
+|:---:|:---:|:---:|
+| AutoClicker V2 | Spring Boot & FastAPI | UI/UX Design |
+| .NET 8 Ecosystem | Docker & DevOps | Desktop Apps |
+| Open Source | System Architecture | Automation |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💜_Fun_Fact-Пишу_код_под_lo--fi_hip_hop-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Status-Coffee_Driven-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎧_Mode-In_The_Zone-FF50B4?style=for-the-badge" />
+</p>
+
+---
