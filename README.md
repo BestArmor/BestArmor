@@ -132,3 +132,54 @@
 </div>
 
 ---
+
+## 🎯 График активности
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BestArmor&theme=redical&hide_border=true&bg_color=0D1117&color=FF50B4&line=FF50B4&point=FFFFFF&area=true&area_color=FF50B4)
+
+</div>
+
+---
+
+## 🚀 Мои проекты
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚡ AutoClicker V2
+
+**Современный мульти-профильный автокликер с HTML UI**
+
+![Downloads](https://img.shields.io/github/downloads/BestArmor/AutoClicker/total?style=for-the-badge&color=FF50B4)
+![Stars](https://img.shields.io/github/stars/BestArmor/AutoClicker?style=for-the-badge&color=orange)
+![Last Commit](https://img.shields.io/github/last-commit/BestArmor/AutoClicker?style=for-the-badge&color=blue)
+
+**Стек:** `C#` `.NET 8` `WebView2` `HTML/CSS/JS` `Win32 API`
+
+**Возможности:**
+- 🎯 9 тем с живым фоном
+- 📋 Мульти-профили
+- 🖱 Мышь + ⌨ Клавиатура
+- 🔥 Горячие клавиши
+- 🌍 EN / RU
+
+[➡️ Перейти к проекту](https://github.com/BestArmor/AutoClicker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Python Backend API *(в разработке)*
+
+**REST API сервис на FastAPI**
+
+![Python](https://img.shields.io/badge/Status-In_Progress-FF50B4?style=for-the-badge)
+
+**Стек:** `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker`
+
+**Планируется:**
+-
