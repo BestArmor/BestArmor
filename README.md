@@ -125,9 +125,9 @@
 
 ### 📈 Общая статистика и языки
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BestArmor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&icon_color=FF50B4&text_color=fff&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-gilt-mu-62.vercel.app/api?username=BestArmor&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&icon_color=FF50B4&text_color=fff&count_private=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BestArmor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&text_color=fff&langs_count=8&count_private=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-gilt-mu-62.vercel.app/api/top-langs/?username=BestArmor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF50B4&text_color=fff&langs_count=8&count_private=true" alt="Top Languages" />
 
 ---
 
