@@ -183,3 +183,46 @@
 
 **Планируется:**
 -
+---
+
+## 💬 Случайная шутка для разработчиков
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117&qColor=FF50B4&aColor=fff)
+
+</div>
+
+*Шутка обновляется каждый раз при загрузке страницы! 🎲*
+
+---
+
+## 💭 Цитата дня
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
+## 👀 Просмотры профиля
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BestArmor&color=FF50B4&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Спасибо за посещение моего профиля!
+
+*Если мои проекты были полезны — поставь ⭐*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
