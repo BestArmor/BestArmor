@@ -1,22 +1,32 @@
 <div align="center">
 
-<!-- Анимированный header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BestArmor&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- 🌊 Анимированная шапка с волнами -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BestArmor&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
-<!-- Печатающийся текст -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FF50B4&center=true&vCenter=true&random=false&width=600&lines=C%23+%2F+.NET+Developer+%F0%9F%9A%80;Windows+Apps+Creator+%E2%9A%A1;AutoClicker+V2+Author+%F0%9F%92%9C;Open+Source+Enthusiast+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<!-- ⌨️ Печатающийся текст -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=gradient&customColorList=6,11,20&center=true&vCenter=true&multiline=false&random=false&width=700&lines=C%23+%2F+.NET+Developer+%F0%9F%92%9C;Java+%2F+Spring+Boot+Developer+%E2%98%95;Windows+Desktop+Apps+Creator+%E2%9A%A1;Backend+%26+Frontend+Enthusiast+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
-## 🌟 О себе
+</div>
+
+## 🧑‍💻 Обо мне
 
 ```csharp
-class BestArmor
+public class BestArmor
 {
-    public string[] Languages = { "C#", "JavaScript", "HTML", "CSS" };
-    public string[] Frameworks = { ".NET 8", "WinForms", "WebView2" };
-    public string CurrentProject = "AutoClicker V2";
-    public bool OpenForCollaboration = true;
+    public string Name => "BestArmor";
+    public string Role => "Full Stack Developer";
+    
+    public string[] PrimaryStack => new[] { "C#", ".NET 8", "Java", "Spring Boot" };
+    public string[] Frontend => new[] { "HTML5", "CSS3", "JavaScript" };
+    public string[] Databases => new[] { "SQL Server", "PostgreSQL", "MySQL" };
+    public string[] Tools => new[] { "VS Code", "IntelliJ IDEA", "Git", "Docker" };
+    
+    public string CurrentProject => "AutoClicker V2 + изучаю Spring Boot";
+    public bool OpenForCollaboration => true;
+    
+    public string FunFact => "Пишу код под lo-fi hip hop 🎧";
     
     public void SayHi() => Console.WriteLine("Thanks for visiting! 💜");
 }
