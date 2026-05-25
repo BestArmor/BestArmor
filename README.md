@@ -19,16 +19,18 @@
 
 | 🎯 Текущий фокус | 🌱 Изучаю | 💡 Интересы |
 |:---:|:---:|:---:|
-| AutoClicker V2 | Spring Boot & FastAPI | UI/UX Design |
-| .NET 8 Ecosystem | Docker & DevOps | Desktop Apps |
-| Open Source | System Architecture | Automation |
+| Full Stack Development | Spring Boot & FastAPI | UI/UX Design |
+| .NET 8 Ecosystem | Docker & DevOps | Desktop Applications |
+| Clean Architecture | System Design | Automation |
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💜_Fun_Fact-Пишу_код_под_lo--fi_hip_hop-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💜_Fun_Fact-Пишу_код_под_АПФС-FF50B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☕_Status-Coffee_Driven-FF50B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎧_Mode-In_The_Zone-FF50B4?style=for-the-badge" />
 </p>
 
 ---
+
+
