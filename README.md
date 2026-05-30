@@ -5,6 +5,19 @@
   </a>
 </div>
 
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Russia_|_Remote_Worldwide-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Stack-C%23_•_Java_•_Python-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Languages-Russian_(Native)_•_English-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⏰_Format-Full_time_•_Freelance_•_Remote-FF50B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Ready_to_Start-Immediately-00C853?style=for-the-badge" />
+</p>
+
+</div>
+
 <div align="center">
 
 ### 🚀 Ищу интересные проекты и предложения о работе
@@ -20,18 +33,6 @@
     <img src="https://img.shields.io/badge/🐙_GitHub-BestArmor-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Russia_|_Remote_Worldwide-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Stack-C%23_•_Java_•_Python-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Languages-Russian_(Native)_•_English-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⏰_Format-Full_time_•_Freelance_•_Remote-FF50B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Ready_to_Start-Immediately-00C853?style=for-the-badge" />
-</p>
-
-</div>
 
 <div align="center">
 
