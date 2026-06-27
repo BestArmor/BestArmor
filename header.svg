@@ -1,0 +1,26 @@
+<svg width="1000" height="250" viewBox="0 0 1000 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35" />
+    </filter>
+  </defs>
+  
+  <!-- Dark Base -->
+  <rect width="1000" height="250" fill="#0D1117" rx="12" />
+  
+  <!-- Glassmorphism Blurs -->
+  <circle cx="850" cy="50" r="120" fill="#7C3AED" filter="url(#blur)" opacity="0.35" />
+  <circle cx="150" cy="220" r="140" fill="#EC4899" filter="url(#blur)" opacity="0.25" />
+  
+  <!-- Glass Panel -->
+  <rect x="30" y="30" width="940" height="190" fill="#161B22" rx="10" opacity="0.6" />
+  <rect x="30" y="30" width="940" height="190" fill="none" stroke="#30363D" stroke-width="1" rx="10" />
+  
+  <!-- Typography -->
+  <text x="500" y="125" font-family="Segoe UI, system-ui, sans-serif" font-size="72" font-weight="700" fill="url(#grad)" text-anchor="middle" letter-spacing="-2">BestArmor</text>
+  <text x="500" y="170" font-family="Segoe UI, system-ui, sans-serif" font-size="24" font-weight="500" fill="#8B949E" text-anchor="middle" letter-spacing="3">WINDOWS DESKTOP DEVELOPER</text>
+</svg>
