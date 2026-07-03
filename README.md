@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://t.me/+aC9Yl6cli0o5ODEy"><img src="https://img.shields.io/badge/Telegram_Канал-1C1C1C?style=for-the-badge&logo=telegram&logoColor=EC4899" alt="Telegram" /></a>
+  <a href="https://t.me/Sto_RR_m"><img src="https://img.shields.io/badge/Telegram_Канал-1C1C1C?style=for-the-badge&logo=telegram&logoColor=EC4899" alt="Telegram" /></a>
   <a href="https://github.com/BestArmor?tab=followers"><img src="https://img.shields.io/badge/Followers-1C1C1C?style=for-the-badge&logo=github&logoColor=7C3AED" alt="Followers" /></a>
   <a href="https://github.com/BestArmor?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1C1C1C?style=for-the-badge&logo=visualstudio&logoColor=EC4899" alt="Projects" /></a>
 </div>
